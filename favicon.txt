@@ -1,0 +1,9 @@
+Define Favicon and give an illustrative example?
+Ans:
+A favicon (favourite icon) is a tiny icon included along with a website, which is displayed in places like the browser's address bar, page tabs and bookmarks menu.
+
+Usually, a favicon icon is 16*16 pixels in size and stored in the GIF, PNG, or ICO file format.
+
+They are used to improve user experience and enforce brand consistency. When a familiar is seen in the browser's address bar, for example,
+
+It helps users know they are in the right place.
